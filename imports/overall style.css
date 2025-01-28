@@ -1,0 +1,24 @@
+
+body{
+    font-family: Lexend, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#lateral_navbar{
+
+    padding: 2em;
+
+    background-color: rgb(189, 189, 255);
+}
+
+#lateral_navbar a{
+    padding: 1em;
+    margin: 1em;
+
+    background-color: white;
+}
+
+#lateral_navbar a:hover{
+    cursor: pointer;
+
+    background-color: rgb(231, 227, 227);
+}
